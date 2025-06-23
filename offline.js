@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1750470976,
+	"version": 1750637820,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,8 @@
 		"images/placa-sheet0.png",
 		"images/campfire-sheet0.png",
 		"images/campfire-sheet1.png",
+		"images/placa2-sheet0.png",
+		"images/house3-sheet0.png",
 		"images/hud_heart-sheet0.png",
 		"images/rain.png",
 		"images/light-sheet0.png",
@@ -61,7 +63,6 @@
 		"images/player-sheet1.png",
 		"images/candle-sheet0.png",
 		"images/bandeide-sheet0.png",
-		"images/easteregg-sheet0.png",
 		"images/menubg-sheet0.png",
 		"images/menubg2-sheet0.png",
 		"media/savamption.m4a",
