@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1750706609,
+	"version": 1750711603,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,8 +47,6 @@
 		"images/safezone-sheet0.png",
 		"images/bg8.png",
 		"images/placa-sheet0.png",
-		"images/campfire-sheet0.png",
-		"images/campfire-sheet1.png",
 		"images/placa2-sheet0.png",
 		"images/house3-sheet0.png",
 		"images/hud_heart-sheet0.png",
@@ -66,6 +64,7 @@
 		"images/bandeide-sheet0.png",
 		"images/menubg-sheet0.png",
 		"images/menubg2-sheet0.png",
+		"images/sarah-sheet0.png",
 		"media/savamption.m4a",
 		"media/savamption.ogg",
 		"media/monster-home.m4a",
