@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751641199,
+	"version": 1751647241,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -72,6 +72,11 @@
 		"images/menubg-sheet0.png",
 		"images/menubg2-sheet0.png",
 		"images/mannon-sheet0.png",
+		"images/drawn1-sheet0.png",
+		"images/drawn2-sheet0.png",
+		"images/drawn3-sheet0.png",
+		"images/drawn4-sheet0.png",
+		"images/drawn5-sheet0.png",
 		"media/savamption.m4a",
 		"media/savamption.ogg",
 		"media/monster-home.m4a",
