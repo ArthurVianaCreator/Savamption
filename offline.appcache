@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1751647241
+#1751663486
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -50,6 +50,13 @@ images/placa2-sheet0.png
 images/house3-sheet0.png
 images/cenario_candle-sheet0.png
 images/spikes-sheet0.png
+images/drawn1-sheet0.png
+images/drawn2-sheet0.png
+images/drawn3-sheet0.png
+images/drawn4-sheet0.png
+images/drawn5-sheet0.png
+images/fungos-sheet0.png
+images/fungos-sheet1.png
 images/hud_heart-sheet0.png
 images/rain.png
 images/light-sheet0.png
@@ -68,14 +75,9 @@ images/player-sheet1.png
 images/bandeide-sheet0.png
 images/sarah-sheet0.png
 images/key-sheet0.png
+images/mannon-sheet0.png
 images/menubg-sheet0.png
 images/menubg2-sheet0.png
-images/mannon-sheet0.png
-images/drawn1-sheet0.png
-images/drawn2-sheet0.png
-images/drawn3-sheet0.png
-images/drawn4-sheet0.png
-images/drawn5-sheet0.png
 media/savamption.m4a
 media/savamption.ogg
 media/monster-home.m4a
