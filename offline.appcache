@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1751600601
+#1751641199
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -56,6 +56,7 @@ images/light-sheet0.png
 images/blood.png
 images/hud_inventory-sheet0.png
 images/light3-sheet0.png
+images/farway_logo-sheet0.png
 images/enemy_canibal-sheet0.png
 images/enemy_canibal-sheet1.png
 images/enemy_sarcedot-sheet0.png

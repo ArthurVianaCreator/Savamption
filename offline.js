@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751600601,
+	"version": 1751641199,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -57,6 +57,7 @@
 		"images/blood.png",
 		"images/hud_inventory-sheet0.png",
 		"images/light3-sheet0.png",
+		"images/farway_logo-sheet0.png",
 		"images/enemy_canibal-sheet0.png",
 		"images/enemy_canibal-sheet1.png",
 		"images/enemy_sarcedot-sheet0.png",
