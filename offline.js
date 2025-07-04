@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751590427,
+	"version": 1751600601,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,6 +55,7 @@
 		"images/rain.png",
 		"images/light-sheet0.png",
 		"images/blood.png",
+		"images/hud_inventory-sheet0.png",
 		"images/light3-sheet0.png",
 		"images/enemy_canibal-sheet0.png",
 		"images/enemy_canibal-sheet1.png",
@@ -64,10 +65,8 @@
 		"images/cow-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
-		"images/player-sheet2.png",
 		"images/bandeide-sheet0.png",
 		"images/sarah-sheet0.png",
-		"images/sarah-sheet1.png",
 		"images/key-sheet0.png",
 		"images/menubg-sheet0.png",
 		"images/menubg2-sheet0.png",
