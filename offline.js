@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751679434,
+	"version": 1751746079,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,8 +78,8 @@
 		"images/mannon-sheet0.png",
 		"images/conceptplayer-sheet0.png",
 		"images/conceptplayer-sheet1.png",
+		"images/logo-sheet0.png",
 		"images/menubg-sheet0.png",
-		"images/menubg2-sheet0.png",
 		"images/sprite-sheet0.png",
 		"media/savamption.m4a",
 		"media/savamption.ogg",
