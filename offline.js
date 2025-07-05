@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751663486,
+	"version": 1751679434,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -62,7 +62,6 @@
 		"images/rain.png",
 		"images/light-sheet0.png",
 		"images/blood.png",
-		"images/hud_inventory-sheet0.png",
 		"images/light3-sheet0.png",
 		"images/farway_logo-sheet0.png",
 		"images/enemy_canibal-sheet0.png",
@@ -77,8 +76,11 @@
 		"images/sarah-sheet0.png",
 		"images/key-sheet0.png",
 		"images/mannon-sheet0.png",
+		"images/conceptplayer-sheet0.png",
+		"images/conceptplayer-sheet1.png",
 		"images/menubg-sheet0.png",
 		"images/menubg2-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/savamption.m4a",
 		"media/savamption.ogg",
 		"media/monster-home.m4a",
