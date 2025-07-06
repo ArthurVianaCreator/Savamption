@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751746079,
+	"version": 1751823029,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,6 +64,7 @@
 		"images/blood.png",
 		"images/light3-sheet0.png",
 		"images/farway_logo-sheet0.png",
+		"images/holebg-sheet0.png",
 		"images/enemy_canibal-sheet0.png",
 		"images/enemy_canibal-sheet1.png",
 		"images/enemy_sarcedot-sheet0.png",
@@ -80,7 +81,8 @@
 		"images/conceptplayer-sheet1.png",
 		"images/logo-sheet0.png",
 		"images/menubg-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/flag_usa-sheet0.png",
+		"images/flag_ptbr-sheet0.png",
 		"media/savamption.m4a",
 		"media/savamption.ogg",
 		"media/monster-home.m4a",
