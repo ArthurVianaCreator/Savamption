@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751829580,
+	"version": 1751831055,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -58,7 +58,6 @@
 		"images/drawn5-sheet0.png",
 		"images/fungos-sheet0.png",
 		"images/fungos-sheet1.png",
-		"images/hud_heart-sheet0.png",
 		"images/rain.png",
 		"images/light-sheet0.png",
 		"images/blood.png",
