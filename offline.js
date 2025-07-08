@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751851969,
+	"version": 1751940702,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -83,10 +83,11 @@
 		"images/flag_usa-sheet0.png",
 		"images/flag_ptbr-sheet0.png",
 		"images/grid.png",
-		"media/savamption.m4a",
 		"media/savamption.ogg",
-		"media/monster-home.m4a",
-		"media/monster-home.ogg",
+		"media/msc_savamption.ogg",
+		"media/espinhos.ogg",
+		"media/close.ogg",
+		"media/open.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
