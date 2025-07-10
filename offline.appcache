@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1751940702
+#1752179966
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -63,6 +63,9 @@ images/light3-sheet0.png
 images/farway_logo-sheet0.png
 images/holebg-sheet0.png
 images/hud_heart-sheet0.png
+images/grid.png
+images/flag_ptbr-sheet0.png
+images/flag_usa-sheet0.png
 images/enemy_canibal-sheet0.png
 images/enemy_canibal-sheet1.png
 images/enemy_sarcedot-sheet0.png
@@ -79,9 +82,9 @@ images/conceptplayer-sheet0.png
 images/conceptplayer-sheet1.png
 images/logo-sheet0.png
 images/menubg-sheet0.png
-images/flag_usa-sheet0.png
-images/flag_ptbr-sheet0.png
-images/grid.png
+images/dialogue_player-sheet0.png
+images/dialogue_sarah-sheet0.png
+images/dialogue_sarah-sheet1.png
 media/savamption.ogg
 media/msc_savamption.ogg
 media/espinhos.ogg
