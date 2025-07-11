@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1752179966,
+	"version": 1752195446,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -86,6 +86,7 @@
 		"images/dialogue_player-sheet0.png",
 		"images/dialogue_sarah-sheet0.png",
 		"images/dialogue_sarah-sheet1.png",
+		"images/dialogue_bg-sheet0.png",
 		"media/savamption.ogg",
 		"media/msc_savamption.ogg",
 		"media/espinhos.ogg",

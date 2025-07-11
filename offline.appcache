@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1752179966
+#1752195446
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -85,6 +85,7 @@ images/menubg-sheet0.png
 images/dialogue_player-sheet0.png
 images/dialogue_sarah-sheet0.png
 images/dialogue_sarah-sheet1.png
+images/dialogue_bg-sheet0.png
 media/savamption.ogg
 media/msc_savamption.ogg
 media/espinhos.ogg
